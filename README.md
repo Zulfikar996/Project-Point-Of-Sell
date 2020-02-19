@@ -15,7 +15,7 @@ Project is created with:
 To run this project, 
 - Node.js - Download and Install Node.js
 - Nodemon - Download and Install Nodemon
-install it locally using npm:
+- install it locally using npm:
 
 ```
 - [mysql](#)
