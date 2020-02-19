@@ -1,22 +1,28 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+## Project POS of Family Restaurant
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
 * [Setup](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Introduction
+This project is simple Point of Sale on anywhere chasier system, like displaying product, add and delete product, etc.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Coding javascript in Visual Studio Code
+* Check with postman
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, 
+- Node.js - Download and Install Node.js
+- Nodemon - Download and Install Nodemon
+install it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+- [mysql](#)
+- [crypto](#)
+- [jsonwebtoken](#)
+- [multer](#)
+- [multer](#)
+- [morgan](#)
+- etc.
 ```
